@@ -1,6 +1,6 @@
 {
-  "homepage": "http://humpty53.github.io/art-museum",
-  "name": "react-stream-chat-app",
+  "homepage": "http://humpty53.github.io/",
+  "name": "art-museum",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
