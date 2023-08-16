@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/art-museum/static/css/main.323d2dd9.css",
-    "main.js": "/art-museum/static/js/main.cf6aeac0.js",
-    "static/js/141.a0c6aaa7.chunk.js": "/art-museum/static/js/141.a0c6aaa7.chunk.js",
-    "static/js/209.4377e575.chunk.js": "/art-museum/static/js/209.4377e575.chunk.js",
-    "static/js/717.89be18b6.chunk.js": "/art-museum/static/js/717.89be18b6.chunk.js",
-    "static/js/829.1edb887f.chunk.js": "/art-museum/static/js/829.1edb887f.chunk.js",
-    "static/js/787.a82c7aaa.chunk.js": "/art-museum/static/js/787.a82c7aaa.chunk.js",
-    "static/media/EmojiOneColor.woff2": "/art-museum/static/media/EmojiOneColor.90ee5fb894c8d349bc54.woff2",
-    "static/media/NotoColorEmoji-flags.woff2": "/art-museum/static/media/NotoColorEmoji-flags.148141acfb7ce6e4f383.woff2",
-    "index.html": "/art-museum/index.html",
-    "main.323d2dd9.css.map": "/art-museum/static/css/main.323d2dd9.css.map",
-    "main.cf6aeac0.js.map": "/art-museum/static/js/main.cf6aeac0.js.map",
-    "141.a0c6aaa7.chunk.js.map": "/art-museum/static/js/141.a0c6aaa7.chunk.js.map",
-    "209.4377e575.chunk.js.map": "/art-museum/static/js/209.4377e575.chunk.js.map",
-    "717.89be18b6.chunk.js.map": "/art-museum/static/js/717.89be18b6.chunk.js.map",
-    "829.1edb887f.chunk.js.map": "/art-museum/static/js/829.1edb887f.chunk.js.map",
-    "787.a82c7aaa.chunk.js.map": "/art-museum/static/js/787.a82c7aaa.chunk.js.map"
+    "main.css": "/static/css/main.b14a094b.css",
+    "main.js": "/static/js/main.f95b27e9.js",
+    "static/js/141.a0c6aaa7.chunk.js": "/static/js/141.a0c6aaa7.chunk.js",
+    "static/js/209.4377e575.chunk.js": "/static/js/209.4377e575.chunk.js",
+    "static/js/717.89be18b6.chunk.js": "/static/js/717.89be18b6.chunk.js",
+    "static/js/829.1edb887f.chunk.js": "/static/js/829.1edb887f.chunk.js",
+    "static/js/787.a82c7aaa.chunk.js": "/static/js/787.a82c7aaa.chunk.js",
+    "static/media/EmojiOneColor.woff2": "/static/media/EmojiOneColor.90ee5fb894c8d349bc54.woff2",
+    "static/media/NotoColorEmoji-flags.woff2": "/static/media/NotoColorEmoji-flags.148141acfb7ce6e4f383.woff2",
+    "index.html": "/index.html",
+    "main.b14a094b.css.map": "/static/css/main.b14a094b.css.map",
+    "main.f95b27e9.js.map": "/static/js/main.f95b27e9.js.map",
+    "141.a0c6aaa7.chunk.js.map": "/static/js/141.a0c6aaa7.chunk.js.map",
+    "209.4377e575.chunk.js.map": "/static/js/209.4377e575.chunk.js.map",
+    "717.89be18b6.chunk.js.map": "/static/js/717.89be18b6.chunk.js.map",
+    "829.1edb887f.chunk.js.map": "/static/js/829.1edb887f.chunk.js.map",
+    "787.a82c7aaa.chunk.js.map": "/static/js/787.a82c7aaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.323d2dd9.css",
-    "static/js/main.cf6aeac0.js"
+    "static/css/main.b14a094b.css",
+    "static/js/main.f95b27e9.js"
   ]
 }
